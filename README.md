@@ -82,10 +82,10 @@ We will provide open source client libraries (supporting languages like Python a
 ## Project Timeline (Major Phases)
 The OpenMCP Cardano project is divided into 4 major phases, expected to be completed within 8 months:
 
-- Phase #1: Foundation & Core Architecture (2 months)
-- Phase #2: Data Contextualization (2 months)
-- Phase #3: Public Beta & Feature Expansion (2 months)
-- Phase #4: Optimization & V1.0 Release (2 months)
+- Milestone #1: Foundation & Core Architecture (2 months)
+- Milestone #2: Data Contextualization (2 months)
+- Milestone #3: Public Beta & Feature Expansion (2 months)
+- Milestone #4: Optimization & V1.0 Release (2 months)
 
 ## Useful Links
 - Official website: https://ada-bamboo.com/
