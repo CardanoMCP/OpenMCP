@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# Node / TypeScript
+node_modules/
+dist/
+.build/
+.out/
+.npm/
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# Coverage
+.coverage
+htmlcov/
+coverage/
+
+# OS
+Thumbs.db 

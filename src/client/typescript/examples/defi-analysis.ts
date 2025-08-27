@@ -1,0 +1,1 @@
+console.log('DeFi analysis example placeholder'); 

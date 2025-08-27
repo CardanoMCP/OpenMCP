@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Native Asset",
+  "type": "object",
+  "properties": {
+    "policy_id": { "type": "string" },
+    "asset_name": { "type": "string" },
+    "quantity": { "type": "string" }
+  },
+  "required": ["policy_id", "asset_name", "quantity"]
+} 

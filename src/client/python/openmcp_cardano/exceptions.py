@@ -1,0 +1,2 @@
+class OpenMCPCardanoError(Exception):
+    pass 

@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  server:
+    build: .
+    command: python -m src.server.main
+    environment:
+      - OPENMCP_ENV=development
+    ports:
+      - "8000:8000" 

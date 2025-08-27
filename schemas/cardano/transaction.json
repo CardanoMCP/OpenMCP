@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Cardano Transaction",
+  "type": "object",
+  "properties": {
+    "tx_hash": { "type": "string" },
+    "inputs": { "type": "array" },
+    "outputs": { "type": "array" }
+  },
+  "required": ["tx_hash", "inputs", "outputs"]
+} 

@@ -1,0 +1,1 @@
+console.log('NFT explorer example placeholder'); 

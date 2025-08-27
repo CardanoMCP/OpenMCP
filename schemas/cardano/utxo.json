@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Cardano UTXO",
+  "type": "object",
+  "properties": {
+    "tx_hash": { "type": "string" },
+    "index": { "type": "integer" },
+    "amount": { "type": "string" }
+  },
+  "required": ["tx_hash", "index", "amount"]
+} 

@@ -1,0 +1,5 @@
+openmcp:
+  env: development
+  log_level: DEBUG
+cardano:
+  network: preprod 

@@ -1,0 +1,5 @@
+openmcp:
+  env: test
+  log_level: WARNING
+cardano:
+  network: preview 

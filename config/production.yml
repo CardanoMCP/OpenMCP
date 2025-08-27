@@ -1,0 +1,5 @@
+openmcp:
+  env: production
+  log_level: INFO
+cardano:
+  network: mainnet 
